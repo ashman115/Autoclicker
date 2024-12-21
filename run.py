@@ -1,0 +1,3 @@
+import autoclicker
+
+autoclicker.main()
